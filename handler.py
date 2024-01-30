@@ -9,13 +9,10 @@ import json
 
 API_ROOT = 'https://api.groupme.com/v3/'
 FLAGGED_PHRASES = (
-    'essay written by professionals',
-    'paper writing service',
-    'academic writing service',
-    'student paper assignments',
-    'getting professional academic help from us is easy',
-    'cutt.us',
-    'inyurl.com/muxz7h',
+    'selling',
+    'dm me',
+    'dm for',
+    'check out',
 )
 
 
